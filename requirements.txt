@@ -1,0 +1,23 @@
+# Core LangChain & LangGraph & Google
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+google-generativeai
+
+# Neo4j & Graph
+langchain-neo4j
+neo4j
+langchain-experimental # LLMGraphTransformer用
+openAI # なんか呼び出されるから
+
+# Cohere Reranker(今後rerankerを使うかもしれないので一応)
+langchain-cohere
+cohere
+
+# Data Handling & Environment
+pyyaml
+python-dotenv
+
+# Webフレームワーク
+streamlit

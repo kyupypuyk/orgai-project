@@ -1,0 +1,34 @@
+id: MEM-003
+created_time: 2023-04-15T18:00:00+09:00
+last_edited_time: 2024-11-08T19:45:00+09:00
+title: 伊藤 健太
+grade: 2年 デザイン学部 / 広報部長
+skills:
+  - Figma
+  - UI/UXデザイン
+  - グラフィックデザイン
+  - SNSマーケティング
+  - Illustrator
+team_belongs_to:
+  - TEAM-001
+  - TEAM-003
+team_operates:
+  - TEAM-003
+team_represents:
+  - TEAM-003
+project_participates_in:
+  - PROJ-001
+  - PROJ-002
+  - PROJ-003
+project_represents: null
+meetings_attends:
+  - MEET-001
+  - MEET-003
+  - MEET-004
+  - MEET-005
+contents: |
+  活動経験: 高校時代は美術部。独学でデザインツールを学び、コンペでの受賞経験も。
+  加入動機: プログラマーと協力して、自分のデザインが実際に動くプロダクトになる経験をしてみたかった。新歓期のポスターに惹かれて入会を決意。
+  活動の信条: 「神は細部に宿る」。ユーザーが直感的に使える、心地よいデザインを追求している。
+  将来の夢: 事業会社のUI/UXデザイナーとして、プロダクトの成長に深く関わりたい。
+  趣味: 美術館巡りと、カフェでひたすらUIのトレースをすること。

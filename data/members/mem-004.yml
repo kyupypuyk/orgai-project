@@ -1,0 +1,27 @@
+id: MEM-004
+created_time: 2023-04-25T22:00:00+09:00
+last_edited_time: 2024-10-15T18:05:00+09:00
+title: 渡辺 翔平
+grade: 2年 経済学部 / 会計
+skills:
+  - 簿記2級
+  - Excel
+  - 予算管理
+  - 経費精算
+team_belongs_to:
+  - TEAM-001
+team_operates:
+  - TEAM-001
+team_represents: null
+project_participates_in:
+  - PROJ-001
+project_represents: null
+meetings_attends:
+  - MEET-001
+  - MEET-003
+contents: |
+  活動経験: 高校時代は数学研究会に所属。数字に強く、堅実な性格。
+  加入動機: テクノロジーには詳しくないが、団体の急成長を裏で支える役割に魅力を感じた。代表の鈴木のビジョンに共感し、運営メンバーとして加入。
+  活動の信条: 「一円を笑う者は一円に泣く」。団体の活動資金を健全に管理し、メンバーが安心して活動できる基盤を守ることが自分の役目だと思っている。
+  将来の夢: 公認会計士になること。
+  趣味: 筋トレと家計簿をつけること。団費の入出金をExcelで完璧に管理するのが快感。

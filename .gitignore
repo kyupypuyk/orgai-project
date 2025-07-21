@@ -1,0 +1,14 @@
+# --- Environments ---
+# ローカルの環境変数ファイル
+.env
+
+# --- Dependencies / IDE ---
+# Pythonの仮想環境フォルダ
+venv/
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- Neo4j Data ---
+neo4j/

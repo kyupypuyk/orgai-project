@@ -1,0 +1,23 @@
+services:
+  neo4j:
+    image: neo4j:5-community # 最新の5.xコミュニティ版を使用
+    container_name: orgai-neo4j
+    ports:
+      - "7474:7474" # Neo4j Browser用HTTPポート
+      - "7687:7687" # ドライバ接続用Boltポート
+    volumes:
+      # データ永続化のためにローカルディレクトリをコンテナにマウント
+      - ./neo4j/data:/data
+      - ./neo4j/logs:/logs
+      - ./neo4j/import:/var/lib/neo4j/import
+      - ./neo4j/plugins:/plugins
+    environment:
+      # セキュリティのベストプラクティスとして、環境変数ファイルから認証情報を読み込む
+      - NEO4J_AUTH=neo4j/${NEO4J_PASSWORD}
+      # --- APOCプラグインを有効化する設定 ---
+      - NEO4J_PLUGINS=["apoc", "graph-data-science"] # JSON配列形式でプラグイン名を指定
+
+      # --- APOCの一部機能の利用を許可する設定（任意） ---
+      # ファイル読み込み(apoc.load.jsonなど)や内部プロシージャを許可する場合に必要
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*,gds.*
+    restart: unless-stopped

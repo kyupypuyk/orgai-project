@@ -1,0 +1,24 @@
+id: TEAM-003
+created_time: 2023-04-20T19:30:00+09:00
+last_edited_time: 2024-10-28T20:00:00+09:00
+title: 広報部
+representative: MEM-003
+operators:
+  - MEM-003
+members:
+  - MEM-003
+  - MEM-007
+status: 活動中
+parent_item: TEAM-001
+sub_items: null
+related_projects:
+  - PROJ-001
+  - PROJ-002
+  - PROJ-003
+related_meetings:
+  - MEET-004
+contents: |
+  活動目的: Tech-Verse Creatorsの活動内容や魅力を学内外に発信し、団体の認知度向上とブランディングを担う。新メンバー募集やイベント集客の成功が主なミッション。
+  目標: SNS（X, Instagram）の総フォロワー数を年度末までに1500人にする。各イベントで目標集客数を120%達成する。
+  活動内容: SNS投稿コンテンツ（活動報告、メンバー紹介、Tips等）の企画・作成、イベント告知ポスター・Webサイトのデザイン、プレスリリース作成、学内メディアとの連携。
+  歴史: 運営局のタスクの一つだったが、活動規模の拡大に伴い専門部署として独立。デザインスキルを持つ伊藤が初代部長に就任した。```

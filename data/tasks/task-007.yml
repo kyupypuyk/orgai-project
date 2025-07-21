@@ -1,0 +1,14 @@
+id: TASK-007
+created_time: 2024-11-13T10:05:00+09:00
+last_edited_time: 2024-11-13T10:05:00+09:00
+title: Class-Navi トップページのコンポーネント実装
+progress: 未着手
+priority: 高
+assignee: MEM-006
+due_date: 2024-11-29
+related_project: PROJ-002
+contents: |
+  目的: Class-Naviのトップページを構成するReactコンポーネントを実装する。
+  作業内容: 中村さんが作成したFigmaのデザインを元に、ヘッダー、フッター、講義検索フォーム、人気レビュー一覧などのコンポーネントをReact(Next.js)とTypeScriptで実装する。Storybookを導入し、各コンポーネントを独立して確認できるようにする。
+  完了の定義: デザイン通りのコンポーネントが実装され、Storybook上で表示と動作が確認できる状態。
+  依存関係: 先に中村さんによるトップページUIデザインが完了している必要がある。

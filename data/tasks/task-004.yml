@@ -1,0 +1,14 @@
+id: TASK-004
+created_time: 2024-11-13T10:00:00+09:00
+last_edited_time: 2024-11-13T10:00:00+09:00
+title: Class-Navi ログイン機能のAPI実装
+progress: 未着手
+priority: 高
+assignee: MEM-002
+due_date: 2024-12-06
+related_project: PROJ-002
+contents: |
+  目的: ユーザーが学内メールアドレスで認証し、サービスを利用できるようにするためのバックエンド機能を実装する。
+  作業内容: Go(Django)を使い、JWT（JSON Web Token）を用いた認証APIエンドポイント（/api/login, /api/registerなど）を作成する。パスワードはハッシュ化してデータベースに保存する。
+  完了の定義: APIの仕様書通りに機能が実装され、ユニットテストが全て通った状態。フロントエンド側と結合テストを行い、正常にログイン・ログアウトができることを確認する。
+  依存関係: データベースのUserテーブル設計が完了している必要がある。

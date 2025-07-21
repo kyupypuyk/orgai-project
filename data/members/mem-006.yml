@@ -1,0 +1,29 @@
+id: MEM-006
+created_time: 2023-10-05T20:30:00+09:00
+last_edited_time: 2024-11-12T23:05:00+09:00
+title: 田中 雄大
+grade: 2年 情報理工学部
+skills:
+  - JavaScript
+  - React
+  - Next.js
+  - TypeScript
+  - HTML/CSS
+team_belongs_to:
+  - TEAM-002
+team_operates: null
+team_represents: null
+project_participates_in:
+  - PROJ-002
+  - PROJ-003
+project_represents:
+  - PROJ-004
+meetings_attends:
+  - MEET-002
+  - MEET-005
+contents: |
+  活動経験: 大学からプログラミングを始めた。独学でReactを学び、ポートフォリオサイトを作成。
+  加入動機: チーム開発の経験を積み、バックエンドやインフラの知識も身につけたかった。高橋さんの技術力に憧れて入会。
+  活動の信条: 「昨日より良いコードを書く」。常に新しい技術や書き方を学び、自分のコードをリファクタリングするのが好き。
+  将来の夢: Web系のフロントエンドエンジニアとして、ユーザー体験を追求したい。
+  趣味: 技術書を読むこと。好きなエディタのテーマは "Monokai Pro"。

@@ -1,0 +1,33 @@
+id: MEM-002
+created_time: 2022-04-10T20:11:00+09:00
+last_edited_time: 2024-11-12T23:00:00+09:00
+title: 高橋 美咲
+grade: 3年 情報理工学部 / 副代表
+skills:
+  - Python (Django)
+  - Go
+  - AWS
+  - Docker
+  - データベース設計
+  - スクラム開発
+team_belongs_to:
+  - TEAM-001
+  - TEAM-002
+team_operates:
+  - TEAM-001
+  - TEAM-002
+team_represents:
+  - TEAM-002
+project_participates_in:
+  - PROJ-002
+project_represents: PROJ-002
+meetings_attends:
+  - MEET-001
+  - MEET-002
+  - MEET-005
+contents: |
+  活動経験: 中学時代からプログラミングに触れ、個人でWebサービスを開発した経験あり。鈴木に誘われ、技術面のリーダーとして団体設立に参画。
+  加入動機: 個人開発では得られない、チームでの開発経験を積みたかった。また、自分の技術で誰かの役に立つものを作りたいという思いが強かった。
+  活動の信条: 「コードは嘘をつかない」。品質の高いソフトウェアは、優れたコミュニケーションと設計から生まれると信じている。
+  将来の夢: SREエンジニアとして大規模サービスの信頼性を支える仕事に就きたい。
+  最近ハマっていること: 自宅のサーバーでKubernetesクラスタを構築すること。

@@ -1,0 +1,31 @@
+id: PROJ-002
+created_time: 2024-05-10T19:00:00+09:00
+last_edited_time: 2024-11-12T23:15:00+09:00
+title: 学内講義レビューアプリ「Class-Navi」開発
+priority: 高
+owner: MEM-002
+members:
+  - MEM-002
+  - MEM-003
+  - MEM-006
+  - MEM-007
+term: 2024-05-10 - 2025-03-31
+status: 進行中
+related_meetings:
+  - MEET-002
+  - MEET-005
+related_tasks:
+  - TASK-002
+  - TASK-004
+  - TASK-007
+related_teams:
+  - TEAM-002
+  - TEAM-003
+parent_item: null
+sub_items: null
+contents: |
+  背景: 履修登録期間中、どの講義を取るべきか情報が少なく、学生がミスマッチに苦しんでいるという課題がある。「楽単」情報だけでなく、講義の学びや面白さといった質的な情報が共有されるプラットフォームが必要。
+  目標: 2025年1月末までに主要機能（講義検索、レビュー投稿・閲覧、お気に入り登録）を実装したβ版をリリースし、春の履修登録期間に合わせて学内へ展開する。
+  ターゲット: 全学部生。特に、履修登録を控えた1〜2年生。
+  提供価値: 先輩のリアルな声（評価、課題の量、テスト形式など）を参考に、自分に合った講義選択を可能にする。
+  使用技術: バックエンドはGo、フロントエンドはNext.js (TypeScript)、インフラはAWS (ECS, RDS)、DBはMySQL。デザインはFigma。

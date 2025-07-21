@@ -1,0 +1,21 @@
+id: TEAM-004
+created_time: 2023-04-20T19:30:00+09:00
+last_edited_time: 2024-09-15T17:00:00+09:00
+title: 渉外部
+representative: MEM-001
+operators:
+  - MEM-001
+members:
+  - MEM-001
+  - MEM-004
+status: 活動中
+parent_item: TEAM-001
+sub_items: null
+related_projects:
+  - PROJ-005
+related_meetings: null
+contents: |
+  活動目的: 団体の活動を豊かにするため、外部の組織（企業、他大学の団体、地域団体など）との連携を構築・維持する。
+  目標: 年間3社以上の企業から技術イベントへの協賛を獲得する。他大学との合同勉強会を半期に1回以上開催する。
+  活動内容: 協賛企業へのアプローチと関係構築、OB/OGとの連携、他団体とのイベント共催の交渉、学外での登壇機会の模索。
+  現状: 現在は代表の鈴木が一人で担当しているが、活動の幅を広げるため、今後メンバーを募集する予定。
